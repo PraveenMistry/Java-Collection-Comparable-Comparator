@@ -3,8 +3,8 @@
 
 Java provides two interfaces to sort objects using data members of the class:
 
-1. Comparable
-2. Comparator
+a) Comparable
+b) Comparator
 
 1. Comparable Interface
 	A comparable object is capable of comparing itself (this) with another object. 
